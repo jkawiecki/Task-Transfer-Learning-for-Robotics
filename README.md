@@ -18,7 +18,7 @@ GitHub: https://github.com/jannerm/diffuser/tree/maze2d
 6. Once a dataset is trained, you can then perform planning
 
 
-### Planning with Diffusion for Flexible Behavior Synthesis – Diffuser:
+### Offline Reinforcement Learning with Implicit Q-Learning - IQL:
 GitHub:
 - Official TensorFlow, Jax implementation -  https://github.com/ikostrikov/implicit_q_learning
 - PyTorch version I used -  https://github.com/gwthomas/IQL-PyTorch/tree/main
