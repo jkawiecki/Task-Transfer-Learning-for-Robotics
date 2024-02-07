@@ -1,4 +1,4 @@
-# Task Transfor for Robotics
+# A Survey on Task Transfer for Robotics
 
 ### Planning with Diffusion for Flexible Behavior Synthesis – Diffuser:
 GitHub: https://github.com/jannerm/diffuser/tree/maze2d 
